@@ -6,7 +6,7 @@ class Operations:
         self.d = 5
 
     def mul(self):
-
+        #branch1-Changes
         self.c += 1
         self.d += 1
         return self.c*self.d
