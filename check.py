@@ -2,14 +2,14 @@
 class Operations:
 
     def __init__(self):
-        self.a = 5
-        self.b = 5
+        self.c = 5
+        self.d = 5
 
     def mul(self):
-
-        self.a += 1
-        self.b += 1
-        return self.a*self.b
+        #branch1-Changes
+        self.c += 1
+        self.d += 1
+        return self.c*self.d
 
     def div(self):
 
