@@ -13,9 +13,9 @@ class Operations:
 
     def div(self):
 
-        self.a += 1
-        self.b += 1
-        return self.a//self.b
+        self.x += 1
+        self.y += 1
+        return self.x//self.y
 
 if __name__ == "__main__":
 
