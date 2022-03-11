@@ -18,7 +18,7 @@ class Operations:
         return self.x//self.y
 
 if __name__ == "__main__":
-
+    # this is main function
     opr = Operations()
     aDiv = opr.div()
     aMul = opr.mul()
